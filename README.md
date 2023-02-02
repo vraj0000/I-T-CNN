@@ -1,1 +1,1 @@
-# I-T-CNN
+# Image to Text Conversion using Convolution Neural Network
