@@ -2,7 +2,7 @@
 
 The directry structure is as follows :
 
-I-T-CNN
+I-T-CNN\
 |
 -> Dataset
 |  |
