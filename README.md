@@ -1,10 +1,10 @@
 # Image to Text Conversion using Convolution Neural Network
-
+---
  ``` 
 I-T-CNN
-├── Dataset
+├── Dataset [List of data set used in this project.]
 │   └── Dataset.docx
-├── Network
+├── Network [Network created called Axiom in Cam DL dir. and OCR V3 in OCR DL dir. use V3.]
 │   ├── Cam DL
 │   │   └── Axiom.mat
 │   └── OCR DL
@@ -24,16 +24,16 @@ I-T-CNN
 │       ├── t9.PNG
 │       ├── untitled.fig
 │       └── Untitled.m
-├── Program
+├── Program [Matlab program for creating and traning the model.]
 │   ├── Axiom.m
 │   ├── Chater sperater.m
 │   ├── image inverter.m
 │   ├── ocrv3.m
 │   └── Plate.m
-├── Report
+├── Report [The complet report and the network architecture.]
 │   ├── axion.pdf
 │   ├── ocvr v3.pdf
 │   └── report final.pdf
-└── Software
+└── Software [List of software used in this project.]
     └── Matlab R2017b.docx
 ```
