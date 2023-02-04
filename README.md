@@ -1,7 +1,10 @@
 # Image to Text Conversion using Convolution Neural Network
 ---
-I need to highlight these ==very important words==.
- ``` 
+This is my Final year project for my diploma in which I used Matlab for creating, training and operating Neural Network called Axiom for vehicle classification and OCR for architecture classification.
+
+I do know Matlab is not a serious DL framework but back then I wanted to get into DL as fast as possible. As of now, I do use Tensorflow and Bran2 for DNN and SNN.
+
+``` 
 I-T-CNN
 ├── Dataset [List of data set used in this project.]
 │   └── Dataset.docx
