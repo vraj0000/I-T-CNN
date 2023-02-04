@@ -1,6 +1,7 @@
 # Image to Text Conversion using Convolution Neural Network
 
- ```  
+ ``` 
+I-T-CNN
 ├── Dataset
 │   └── Dataset.docx
 ├── Network
