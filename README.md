@@ -37,8 +37,8 @@ I-T-CNN\
 -> Software \
    |\
    -> Matlab R2017b.docx (Contains the docx file listing the software used.)\
-   
-   ├── Dataset
+ ```  
+├── Dataset
 │   └── Dataset.docx
 ├── Network
 │   ├── Cam DL
@@ -72,3 +72,4 @@ I-T-CNN\
 │   └── report final.pdf
 └── Software
     └── Matlab R2017b.docx
+```
